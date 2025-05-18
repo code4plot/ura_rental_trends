@@ -1,2 +1,2 @@
-# ura_rental_trends
+# URA Rental Trends
 Shiny Dashboard to visualize rental prices in Singapore
